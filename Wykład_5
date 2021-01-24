@@ -1,0 +1,110 @@
+1.	Jak sprawdzić istnienie katalogu „katalaog1” ?
+Test -e katalog1
+Test -d katalog1 (ok)
+Test –x katalog1
+Test –f katalog1
+
+2.	Jak sprawdzić czy plik „plik1” jest pusty?
+Test -s plik1 (ok)
+Test -d plik1 
+Test –e plik1
+Test –nt plik1
+
+
+3.	Jak wygląda prawidłowa składnia pętli if ?
+If polecenie; treść fi
+If polecenie; then do treść
+If polecenie; do treść
+If polecenie; then treść fi (ok)
+
+
+4.	Jakim znakiem oznacza się komentarz w skrypcie bash?
+!
+<-
+%
+# (ok)
+
+5.	Z jaką opcją należy wywoływać bc, aby robić działania arytmetyczne na liczbach zmiennoprzecinkowych?
+-p
+-l (ok)
+-s
+-k
+6. Czy bash domyślnie wykonuje operacje na liczbach typu float?
+Tak
+Nie(ok)
+
+7.	Co sprawdza polecenie plik1 –ot plik2?
+Sprawdza, czy plik1 jest starszy niż plik2 (ok)
+Sprawdza, czy plik1 jest nowszy niż plik2
+Sprawdza, czy plik1 ma większy rozmiar niż plik2
+Sprawdza, czy plik1 ma taki sam rozmiar jak plik2
+
+8.	Jak należy prawidłowo otrzymać sumę a i b w zmiennej c?
+C = $a + $b
+C = $(a + b)
+C = $($a + $b)
+C = $(($a + $b)) (ok)
+
+9.	Jak należy wypisać tekst na ekran w skrypcie bash?
+Write „$Tekst”
+Echo „$Tekst” (ok)
+Cout „$Tekst”
+Printf „$Tekst”
+
+10.	Czy w bashu istnieje polecenie case?
+Tak (ok)
+Nie
+
+11.	Pętla until jest podoba składniowo do pętli:
+While (ok)
+For
+If
+
+
+12.	Jak wygląda prawidłowa składnia funkcji w bashu?
+Nazwa (polecenia)
+Nazwa {polecenia}
+Nazwa() polecenia;
+Nazwa () {polecenia} (ok)
+
+13.	Które problemy można rozwiązać za pomocą skryptu bash? Zaznacz wszystkie prawidłowe odpowiedzi.
+Sprawdzić, czy istnieje plik
+Sprawdzić, kiedy plik został zapisany
+Sprawdzić, ile razy została wykonana jakaś pętla
+Sprawdzić, jak użytkownik odpowiedział na dane pytanie
+(wszystkie ok)
+
+14.	Dodatkowa narzędzie powłoki działające jak kalkulator to kalkulator:
+Bc (ok)
+Cl
+Kb
+Ck
+
+15.	Jakim poleceniem sprawdzić, czy łańcuch „a” jest pusty? 
+Test –e $a
+Test –z $a? (ok)
+Test –e a?
+Test –z a?
+
+16.	W operacjach na łańcuchach „1” oznacza prawdę, a „0” fałsz. 
+Tak
+Nie (ok)
+
+17.	„Liczba1 –ne liczba2” sprawdza, czy:
+Liczba1 jest większa od liczby2
+Liczba1 jest mniejsza od liczby2
+Liczba1 jest równa liczbie 2
+Liczba1 jest nierówna liczbie 2 (ok)
+
+18.	Czy można utworzyć połączenie między dwoma testami w jednym skrypcie bash?
+Tak(ok)
+Nie
+
+19.Skrypty bash nie mogą czytać z wejścia
+Prawda
+Fałsz (ok)
+
+20.W poleceniu „read” można podać kilka zmiennych.
+Prawda (ok)
+fałsz
+
