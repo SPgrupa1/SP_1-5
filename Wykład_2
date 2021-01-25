@@ -1,1 +1,100 @@
-Tak mam to robić?
+1. Co to za rodzaj potoku?
+Jednostka pobierająca -> Jednostka dekodująca -> Jednostka wykonawcza
+a potok trójfazowy,
+b potok szeregowy,
+c potok superskalarny
+
+2. Wybierz prawdziwe zdanie:
+a Pamięć RAM jest ulotna a ROM nieulotna.
+b Pamięć RAM jest szybka i tania ale może ją modyfikować tylko producent.
+c Typowy komputer posiada ulotną pamięć ROM, niektóre posiadają też nieulotną pamięć RAM.
+
+3. Który system jest wykorzystywany do budowy serwerów?
+a Linux
+b Windows 10
+c Android
+
+4. Zaznacz fałszywe zdanie o systemach operacyjnych czasu rzeczywistego:
+a Systemy operacyjne czasu rzeczywistego są wykorzystywane w przemyśle do sterowania procesami.
+b Systemy miękkie są wykorzystywane w lotnictwie i w wojsku.
+c Systemy operacyjne czasu rzeczywistego można podzielić na systemy twarde i miekkie.
+
+5. Zaznacz prawdziwe zdanie dotyczące systemów operacyjnych kart elektronicznych (wielokrotny wybór):
+a Mogą być zasilane stykowo, lub indukcyjnie.
+b Niektóre systemy wykonują tylko jedną operację.
+c Częsć z nich wykorzystuje język Java.
+
+6. Wybierz opis procesu (wielokrotny wybór):
+a Wykonujący się program.
+b Plik w plikach systemowych.
+c Kontener zawierający wszystkie informacje niezbędne do uruchomienia programu.
+
+7. Czego nie zawiera tabela systemu operacyjnego nazywana tabelą procesów.
+a przestrzeń adresowa procesu
+b nazwa procesu
+c zawartosc rejestrów
+
+8. Zaznacz fałszywe zdanie o przestrzeni adresowej procesu
+a Przestrzeń adresowa nie jest równoznaczna z fizyczną pamięcią adresową.
+b Przestrzeń adresowa może być mniejsza, lub większa niż fizyczna pamięć adresowa.
+c System operacyjny ma dostęp tylko do fizycznej pamięci adresowej.
+
+9. Wybierz urządzenia wejścia-wyjścia (wielokrotny wybór):
+a klawiatura
+b monitor
+c drukarka
+
+10. Za bezpieczeństwo systemu odpowiada:
+a system operacyjny
+b BIOS
+c użytkownik
+
+11. Wybierz prawdziwe zdanie dotyczące ścieżki w systemie Linux /Stoliki/małe_stoliki/brązowy
+a Stoliki i małe_stoliki to katalogi.
+b brązowy może być katalogiem lub plikiem
+c Powyższa ścieżka to ścieżka bezwzględna.
+
+12. Zaznacz fałszywe zdanie o plikach.
+a Potrzebne wywołania systemowe do tworzenia, usuwania, czytania i zapisywania plików są udostępniane przez system operacyjnym.
+b Przed odczytaniem pliku musi być on zlokalizowany na dysku i otwarty.
+c Po odczytaniu danych nie można go zamknąć.
+
+13. Zaznacz fałszywe zdanie o zbiorze adresów przestrzeni adresowej procesu: 
+a Każdy proces posiada pewien zbiór adresów, z których może korzystać— mają one numery od 0 do pewnego 1.
+b Każdy proces posiada pewien zbiór adresów, z których może korzystać— zwykle mają one numery od 0 do pewnego maksimum.
+c Maksymalny adres w przestrzeni adresowej procesu zwykle jest niższy od pojemności pamięci głównej.
+
+14. Struktura powstała w wyniku tworzenia procesów potomnych przez procesy nazywa się:
+a drzewiastą
+b palczastą
+c krzaczastą
+
+15. Jak nazywa się proces utworzony przez proces?
+a proces potomny
+b postproces
+c następnik
+
+16. Zaznacz prawdziwe zdanie:
+a Przestrzeń adresowa zawiera program wykonywalny, dane programu oraz jego stos.
+b Przestrzeń adresowa zawiera program wykonywalny, ale nie zawiera danych programu oraz jego stos.
+c Przestrzeń adresowa nie zawiera programu wykonywalnego, a tylko dane programu oraz jego stos.
+
+17. Jakiego typu typu systemem jest e-Cos?
+a Systemem operacyjnym czasu rzeczywistego
+b System operacyjny kart elektronicznych
+c System operacyjny węzłów sensorowych
+
+18. Zaznacz prawdziwe zdanie o systemie operacyjnym węzłów sensorowych:
+a Pojedyńczy węzeł sensorowy nie jest prawdziwym komputerem.
+b Węzły dzielą jeden, duży system operacyjny.
+c Pojedyńcz węzeł zawiera procesor CPU, pamięć RAM i ROM.
+
+19. Sławny tweet z lodówki był najprawdopodobniej wysłany z:
+a wbydowanego systemu operacyjnego,
+b systemu wezłów sensorycznych
+c lodówki nie mają systemów operacyjnych.
+
+20. Czym jest PDA?
+a Komputer podręczny
+b rozszerzeniem podobnym do PDF
+c operacja systemu operacyjnego
